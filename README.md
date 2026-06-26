@@ -183,9 +183,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🛡️ **[Network Intrusion Detection System](https://github.com/harish77505550)** | Python · Streamlit · Scikit-Learn | ML-powered IDS using **Random Forest, Decision Tree & KNN**; real-time attack prediction with accuracy evaluated via F1 score, confusion matrix & ROC curve |
-| ⚔️ **[DoS Detection Using ML](https://github.com/harish77505550)** | Python · Streamlit · Random Forest | Detects Denial of Service attacks from network datasets; improved detection accuracy using **Random Forest + Logistic Regression** with interactive visualization dashboards |
-| 📅 **[E-Leave Management System](https://github.com/harish77505550)** | PHP · MySQL · HTML/CSS/JS | Role-based system with **Admin, Officer & Employee** modules; complete approval workflow with leave validation by duration and type |
+| 🛡️ **[Network Intrusion Detection System](https://network-intrusion-detection-system-2xsd6kickzvfqmst7txv3z.streamlit.app/)** | Python · Streamlit · Scikit-Learn | ML-powered IDS using **Random Forest, Decision Tree & KNN**; real-time attack prediction with accuracy evaluated via F1 score, confusion matrix & ROC curve |
+| ⚔️ **[DoS Detection Using ML](https://dos-detection-system-lvj7qbdnbpjo44mv8bkw6d.streamlit.app/)** | Python · Streamlit · Random Forest | Detects Denial of Service attacks from network datasets; improved detection accuracy using **Random Forest + Logistic Regression** with interactive visualization dashboards |
+| 📅 **[E-Leave Management System](https://hvfeleave.infinityfreeapp.com/index.html)** | PHP · MySQL · HTML/CSS/JS | Role-based system with **Admin, Officer & Employee** modules; complete approval workflow with leave validation by duration and type |
 | 🏥 **[Doctor Appointment Booking App](https://github.com/harish77505550)** | Flutter · Dart · Firebase | Healthcare app with **real-time slot booking**, doctor listing, schedule management & multi-role UI for patients, doctors and admins |
 
 </div>
